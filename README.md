@@ -1,5 +1,4 @@
 # EMERGE-X
-
 > **AI-Powered Real-Time Emergency Mobility & Traffic Coordination System**  
 > *“Clearing the way. Saving critical minutes.”*
 
