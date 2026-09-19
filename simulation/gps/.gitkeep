@@ -1,0 +1,5 @@
+# simulation/gps placeholder
+# Future implementations will contain:
+# - gps_generator.py: Synthetic GPS coordinates following road network paths
+# - ambulance_movement.py: Simulated kinematics, speed, and emergency progress
+# - telemetry_streamer.py: HTTP/WebSocket publisher sending mock ambulance telemetry

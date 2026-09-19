@@ -1,0 +1,7 @@
+# ai/models placeholder
+# Future implementations will contain:
+# - model_config.yaml: Input resolutions, confidence thresholds, NMS settings
+# - model_registry.json: Metadata, model versions, classes of interest
+#
+# NOTE: Heavy model weights (*.pt, *.onnx, *.weights) are ignored via .gitignore
+# and must NOT be committed to git.

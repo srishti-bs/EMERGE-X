@@ -1,0 +1,5 @@
+# frontend/src/pages placeholder
+# Future implementations will contain dashboard views:
+# - DriverDashboard.jsx: Mobile/in-cab view for ambulance drivers
+# - CommanderDashboard.jsx: Full-screen command center and digital twin map
+# - HospitalDashboard.jsx: Hospital ER triage and trauma bay preparation

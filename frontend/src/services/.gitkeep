@@ -1,0 +1,4 @@
+# frontend/src/services placeholder
+# Future implementations will contain:
+# - websocketService.js: Real-time WebSocket connection to /ws/live-state
+# - apiService.js: REST client communicating with FastAPI endpoints

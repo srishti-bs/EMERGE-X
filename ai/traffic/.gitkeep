@@ -1,0 +1,7 @@
+# ai/traffic placeholder
+# Future implementations will contain:
+# - vehicle_counter.py: Region-of-interest (ROI) vehicle counting
+# - density_estimator.py: Road area occupancy and density quantification
+# - queue_analyzer.py: Queue length and stopped-vehicle estimation
+# - incident_analyzer.py: Obstruction, breakdown, and blockage detection
+# - state_publisher.py: Payload generation matching docs/integration-contract.md

@@ -1,0 +1,5 @@
+# ai/detection placeholder
+# Future implementations will contain:
+# - yolo_detector.py: YOLO inference loop on USB webcam frames
+# - tracker.py: Multi-object vehicle tracking (e.g. ByteTrack / SORT)
+# - camera_utils.py: Video stream capture and perspective rectification

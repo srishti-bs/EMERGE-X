@@ -1,0 +1,5 @@
+# simulation/traffic placeholder
+# Future implementations will contain:
+# - traffic_simulator.py: Background synthetic vehicle movements
+# - flow_generator.py: Stochastic traffic density and intersection queues
+# - congestion_injector.py: Artificial traffic spikes to test routing algorithms

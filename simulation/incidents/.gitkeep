@@ -1,0 +1,5 @@
+# simulation/incidents placeholder
+# Future implementations will contain:
+# - blockage_injector.py: Sudden road closure and lane blockage events
+# - incident_generator.py: Accident scenarios to trigger dynamic rerouting
+# - disruption_scenarios.py: Pre-configured test suites for corridor recovery

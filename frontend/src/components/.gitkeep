@@ -1,0 +1,3 @@
+# frontend/src/components placeholder
+# Future implementations will contain reusable UI components:
+# - MapView, SignalIndicator, TelemetryCard, RouteDisplay, MetricTile, AlertBanner
