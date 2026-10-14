@@ -25,7 +25,7 @@ EMERGE-X is an intelligent emergency mobility platform designed to dramatically 
 The prototype system designates a local development laptop as the primary software and AI compute brain. Both physical microcontroller units (Ambulance ESP32 and Junction ESP32) communicate logically through the central backend—there is **no direct peer-to-peer ESP32-to-ESP32 relay**.
 
 ```
-                           +------------------------+
+  ..                         +------------------------+
                            |  ESP32 #1 (Ambulance)  |
                            |  NEO-6M GPS Telemetry  |
                            +-----------+------------+
